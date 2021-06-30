@@ -302,10 +302,14 @@ h3{
     float: left;
     border: 1px solid black;
     border-radius: 50%;
-    height: 30vh;
-    width: auto;
+    height: auto;
+    width: 25vw;
     margin-bottom:20vh; 
     margin-left: 10vw
+}
+
+footer{
+    width: 100vw;
 }
 
 .linksDiv {
